@@ -1,0 +1,3 @@
+[submodule "api-noticias"]
+	path = api-noticias
+	url = https://github.com/prodest/api-noticias.git
