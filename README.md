@@ -4,8 +4,8 @@
 
 ## APIs
 
- * [Notícias](https://github.com/prodest/api-noticias)
- * [Detran](https://github.com/prodest/api-detran)
- * [SEP](https://github.com/prodest/api-sep)
- * [DIO](https://github.com/prodest/api-dio)
  * [CETURB](https://github.com/prodest/api-ceturb)
+ * [Detran](https://github.com/prodest/api-detran) 
+ * [DIO](https://github.com/prodest/api-dio) 
+ * [Notícias](https://github.com/prodest/api-noticias)
+ * [SEP](https://github.com/prodest/api-sep)
