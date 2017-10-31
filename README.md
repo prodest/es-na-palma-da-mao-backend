@@ -10,3 +10,4 @@
  * [Notícias](https://github.com/prodest/api-noticias)
  * [SEP](https://github.com/prodest/api-sep)
  * [ESPM](https://github.com/prodest/api-espm)
+ * [Transparência](https://github.com/prodest/api-transparencia)
